@@ -1,15 +1,4 @@
----
-title: "Building a Secure HLS Stream Manager with Go"
-date: 2024-10-18
-lastmod: 2024-10-18
-draft: false
-authors: ["Murat"]
-tags: ["HLS","Stream", "Jwt Token","HLS Proxy","Proxy"]
-categories: ["Broadcast IT"]
-description: "Building a Secure HLS Stream Manager with Go"
-lightgallery: true
-featuredImage: "hls.png"
----
+
 
 # Comprehensive HLS Stream Manager with Go: A Detailed Backend Analysis
 
